@@ -1,0 +1,24 @@
+Nov 19, 2025 9:21:14 PM hudson.remoting.Launcher createEngine
+INFO: Setting up agent: docker-agent-trial
+Nov 19, 2025 9:21:14 PM hudson.remoting.Engine startEngine
+INFO: Using Remoting version: 3327.v868139a_d00e0
+Nov 19, 2025 9:21:14 PM org.jenkinsci.remoting.engine.WorkDirManager initializeWorkDir
+INFO: Using /home/jenkins/remoting as a remoting work directory
+Nov 19, 2025 9:21:17 PM hudson.remoting.Launcher$CuiListener status
+INFO: WebSocket connection open
+Nov 19, 2025 9:21:17 PM hudson.remoting.Launcher$CuiListener status
+INFO: Connected
+Nov 19, 2025 11:15:45 PM org.eclipse.jgit.util.FS$FileStoreAttributes getFsResolution
+WARNING: Thread[ForkJoinPool.commonPool-worker-1,5,main]: got smaller file timestamp on /home/jenkins (C:\), /home/jenkins/workspace/my_python_job/.git/objects: 2025-11-19T23:15:44Z < 2025-11-19T23:15:44.9829039Z. Aborting measurement at resolution PT0.0170961S.
+Nov 20, 2025 12:15:06 AM hudson.remoting.Launcher$CuiListener status
+INFO: Write side closed
+Nov 20, 2025 12:15:07 AM hudson.remoting.Launcher$CuiListener status
+INFO: Read side closed
+Nov 20, 2025 12:15:07 AM hudson.remoting.Launcher$CuiListener status
+INFO: Read side closed
+Nov 20, 2025 12:15:07 AM hudson.remoting.Launcher$CuiListener status
+INFO: Terminated
+Nov 20, 2025 12:15:07 AM hudson.remoting.Launcher$CuiListener status
+INFO: Performing onReconnect operation.
+Nov 20, 2025 12:15:07 AM jenkins.slaves.restarter.JnlpSlaveRestarterInstaller$EngineListenerAdapterImpl onReconnect
+INFO: Restarting agent via jenkins.slaves.restarter.UnixSlaveRestarter@3bf954d2
